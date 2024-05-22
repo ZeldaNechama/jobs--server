@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WWZ2H55dnTqoLmjSylog4Cz8pBu6WZiP2QrYSjxnO4k=",
+  "Source": "Jobs-server",
+  "BasePath": "_content/Jobs-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
