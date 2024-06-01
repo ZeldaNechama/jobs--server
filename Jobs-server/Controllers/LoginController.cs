@@ -16,10 +16,15 @@ namespace Jobs_server.Controllers
             this.loginService = loginService;
         }
 
-        [HttpPost]
-        public User GetUser(string name,string password)
+        [HttpGet]
+        public ActionResult<User> GetUser(string name,string password)
         {
-            return this.loginService.GetUser(name, password);
+            var user = this.loginService.GetUser(name, password);
+            if (user == null)
+            {
+                return NotFound();  
+            }
+            return Ok(user);
         }
     }
 }

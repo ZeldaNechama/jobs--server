@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2xdhXwbBNDJ18bJzx5b5Lu5A00rKOWIF32Q1JYLff7FEgpwfXApn/szZcu7GINvKMExpdHh8eyVe7bR3jIxiA==",
+  "dgSpecHash": "7nyceTKSF1x+xqool1wMvM/FzDnCZ9lLpp/DUV+IShkt1+GBMPLJ82xQU1V4DD6rd7JhHheuU88XpNn3pOBOXA==",
   "success": true,
-  "projectFilePath": "E:\\שב תכנות\\שנה ב\\angular\\Jobs Project\\Jobs-server\\Jobs-server\\Jobs-server.csproj",
+  "projectFilePath": "E:\\שב תכנות\\שנה ב\\angular\\Jobs Project\\Jobs-server\\jobs--server\\Jobs-server\\Jobs-server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
